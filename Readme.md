@@ -4,9 +4,6 @@
    <h4>Início : 04/03/2025 - Término : //2025
 </div>
 
-Parei : Iniciando -> Conhecendo HTTP status codes 
-
-
 ## Nível 1 - Fundamentos
 ### Fundamentos do Node.js
 
@@ -29,6 +26,10 @@ Parei : Iniciando -> Conhecendo HTTP status codes
 
 <details><summary><b>3 - Streams no Node.js</b></summary>
 
+- [Entendendo Streams no Node](#)  
+- [Criando stream de leitura](#)  
+- [](#)  
+- [](#)  
 - [](#)  
 - [](#)  
 - [](#)  
