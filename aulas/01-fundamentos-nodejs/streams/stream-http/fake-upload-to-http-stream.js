@@ -19,5 +19,8 @@ class OneToHundredstream extends Readable {
     }
 }
 
-new OneToHundredstream()
-    .pipe(process.stdout)
+fetch('http://localhost:3334', {
+    method: 'POST',
+    body: new OneToHundredstream(),
+    duplex: 'half'
+})
